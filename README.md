@@ -6,12 +6,12 @@ golang httpd web static file server
 #### 软件架构
 软件架构说明
 
+golang web server 
+
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  无需安装直接到releases下载对应版本系统
 
 #### 使用说明
 
