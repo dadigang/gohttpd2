@@ -34,3 +34,7 @@ func getCurrentDirectory() string {
 	}
 	return strings.Replace(dir, "\\", "/", -1)
 }
+
+func printip(){
+	
+}
